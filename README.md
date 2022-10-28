@@ -25,10 +25,10 @@
 ### :fire: Моя статистика :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kepova&show_icons=true&theme=tokyonight" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kepova&show_icons=true&theme=swift" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepova&layout=compact&theme=tokyonight&height=195"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepova&layout=compact&theme=swift&height=195"/>
 </a>
 
 <!--
