@@ -1,7 +1,7 @@
 ### 👋 Привет, меня зовут Валентина!
 
 - 🌱 Начинающий фронтендер
-- 😎 Училась в Яндекс.Практикуме
+- 😎 Прошла курс Web-разработчик в Яндекс.Практикуме
 - 💧 Мне важно писать чистый и понятный код
 - 👯 Хочу работать с опытными разработчиками
 - 🐜 Большое желание учиться новому в Web-разработке
@@ -25,10 +25,10 @@
 ### :fire: Моя статистика :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kepova&show_icons=true&theme=swift" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kepova&show_icons=true&theme=swift"  style="height:170px;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepova&layout=compact&theme=swift&height=195"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepova&layout=compact&theme=swift&height=195" style="height:170px;"/>
 </a>
 
 <!--
