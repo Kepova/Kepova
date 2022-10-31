@@ -5,7 +5,16 @@
 - 💧 Мне важно научиться писать чистый и понятный код
 - 👯 Хочу работать с опытными разработчиками
 - 🐜 Большое желание учиться новому в Web-разработке
+- 
 ---
+
+### :email: Контакты
+<a href="https://t.me/kep_ova"><img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>&nbsp;
+<a href="mailto:v.kepova@gmail.com"><img src="https://img.shields.io/badge/Email-9cf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/valentina-kepova-6174001b7"><img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
+---
+
 ### :octocat: Мой стек
 
 <div>
