@@ -31,7 +31,7 @@
 ---
 
 ### :fire: Моя статистика :
-![](https://komarev.com/ghpvc/?username=Kepova&color=4d0085) <br/>
+<!--![](https://komarev.com/ghpvc/?username=Kepova&color=4d0085) <br/>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Kepova&show_icons=true&theme=swift"  style="height:170px; width:425px; margin-bottom:10px"/>
 </a>
